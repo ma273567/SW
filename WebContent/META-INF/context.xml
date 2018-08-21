@@ -1,0 +1,8 @@
+<Context>
+	<!-- Resource defines the database connection pool that will be used in the db model -->
+  	<Resource name="jdbc/test_db" auth="Container" type="javax.sql.DataSource"
+               maxActive="20" maxIdle="10" maxWait="10000"
+               username="root" password="root" 
+               driverClassName="com.mysql.jdbc.Driver"
+               url="jdbc:mysql://localhost:3306/test_db"/>
+</Context>

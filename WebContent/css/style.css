@@ -1,0 +1,82 @@
+
+
+.signin-body {
+    background-color: #d2d2d2;
+}
+
+body {
+	background-color: #d2d2d2;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+.container.signin-container {
+    margin-top: 10%;
+}
+
+.card.signin-card {
+    padding: 40px 0px 20px;
+    background-color:  #f4f4f4;
+    box-shadow: 2px 2px 5px rgba(0,0,0,.5);
+    -webkit-box-shadow: 2px 2px 5px rgba(0,0,0,.5);
+    -moz-box-shadow: 2px 2px 5px rgba(0,0,0,.5);
+}
+
+img.signin-img {
+    padding: 0 2rem 2rem;
+    margin: auto;
+    display: block;
+    width: 70%;
+}
+
+form.signin-form {
+    margin: 8%;
+}
+
+button.signin-btn {
+    color: #ffffff;
+    /*background-color: #d64829; */
+    margin-bottom: 1.2rem;
+    box-shadow: 2px 2px 5px rgba(0,0,0,.5);
+    -webkit-box-shadow: 2px 2px 5px rgba(0,0,0,.5);
+    -moz-box-shadow: 2px 2px 5px rgba(0,0,0,.5);
+}
+
+h1.login {
+	margin-bottom: 5%;
+	text-shadow: 1px 1px #c0c0c0;
+}
+
+ul li {
+	color: #000000;
+	font-size: 1rem;
+}
+
+button.btn-spacing {
+	padding-left: 3px;
+	margin-left: 3px;
+	margin-right: 3px;
+}
+.search-bar {
+	padding-bottom: 8%;
+}
+.pagination a {
+	background-color: #000;
+	color: #fff;
+	transition: background-color .3s;
+}
+.modal-form div {
+	padding: 5px 5px;
+}
+div.image {
+	background-image:url('bg.png');
+}
+.card-header {
+	padding-bottom: 5px;
+	max-height: 200px;
+}
+.card-body {
+	height: auto;
+}
+	
