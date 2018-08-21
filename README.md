@@ -21,4 +21,4 @@ session and pageContext objects to bind the values from the view using a little 
 - AJAX Pagination
 - Web interface not very responsive
 - update column
-- 
+- deployment
